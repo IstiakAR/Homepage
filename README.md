@@ -1,3 +1,3 @@
 # Homepage
 A small project I did while learning html & css. I might improve it in future.
-!(0ReadMeImage.png)
+!(images/0ReadMeImage.png)
